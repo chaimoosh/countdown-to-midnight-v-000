@@ -8,4 +8,4 @@ def countdown(seconds)
   puts "HAPPY NEW YEAR!"
   break
   end
-
+end
